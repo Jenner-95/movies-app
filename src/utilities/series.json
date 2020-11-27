@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "title": "Titanic.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/films/romance/titanic/small.jpg",
+      "alt": "Tiger King on Netflix",
+      "direction": "row"
+    },
+    {
+      "id": 2,
+      "title": "The Prestige.",
+      "subTitle": "Save your data and watch all your favourites offline.",
+      "image": "/images/films/drama/the-prestige/small.jpg",
+      "alt": "Watch on mobile",
+      "direction": "row-reverse"
+    },
+    {
+      "id": 3,
+      "title": "Zodiac.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/films/suspense/zodiac/small.jpg",
+      "alt": "Money Heist on Netflix",
+      "direction": "row"
+    },
+    {
+        "id": 4,
+        "title": "Black Swan.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/films/thriller/black-swan/small.jpg",
+        "alt": "Tiger King on Netflix",
+        "direction": "row"
+      },
+      {
+        "id": 5,
+        "title": "Joker.",
+        "subTitle": "Save your data and watch all your favourites offline.",
+        "image": "/images/films/thriller/joker/small.jpg",
+        "alt": "Watch on mobile",
+        "direction": "row-reverse"
+      },
+      {
+        "id": 6,
+        "title": "Hotel Transylvania.",
+        "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+        "image": "/images/films/children/hotel-transylvania/small.jpg",
+        "alt": "Money Heist on Netflix",
+        "direction": "row"
+      }
+  ]
+  

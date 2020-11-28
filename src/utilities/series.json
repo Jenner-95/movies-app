@@ -1,51 +1,123 @@
 [
     {
       "id": 1,
-      "title": "Titanic.",
+      "title": "Family Guy.",
       "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
-      "image": "/images/films/romance/titanic/small.jpg",
-      "alt": "Tiger King on Netflix",
-      "direction": "row"
+      "image": "/images/series/comedies/family-guy/small.jpg"
     },
     {
       "id": 2,
-      "title": "The Prestige.",
+      "title": "Juno.",
       "subTitle": "Save your data and watch all your favourites offline.",
-      "image": "/images/films/drama/the-prestige/small.jpg",
-      "alt": "Watch on mobile",
-      "direction": "row-reverse"
+      "image": "/images/series/feel-good/juno/small.jpg"
     },
     {
       "id": 3,
       "title": "Zodiac.",
       "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
-      "image": "/images/films/suspense/zodiac/small.jpg",
-      "alt": "Money Heist on Netflix",
-      "direction": "row"
+      "image": "/images/films/suspense/zodiac/small.jpg"
     },
     {
         "id": 4,
-        "title": "Black Swan.",
+        "title": "Blue Valentine.",
         "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
-        "image": "/images/films/thriller/black-swan/small.jpg",
-        "alt": "Tiger King on Netflix",
-        "direction": "row"
+        "image": "/images/films/romance/blue-valentine/small.jpg"
       },
       {
         "id": 5,
         "title": "Joker.",
         "subTitle": "Save your data and watch all your favourites offline.",
-        "image": "/images/films/thriller/joker/small.jpg",
-        "alt": "Watch on mobile",
-        "direction": "row-reverse"
+        "image": "/images/films/thriller/joker/small.jpg"
       },
       {
         "id": 6,
         "title": "Hotel Transylvania.",
         "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
-        "image": "/images/films/children/hotel-transylvania/small.jpg",
-        "alt": "Money Heist on Netflix",
-        "direction": "row"
+        "image": "/images/films/children/hotel-transylvania/small.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Black Swan.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/films/thriller/black-swan/small.jpg"
+      },
+      {
+        "id": 8,
+        "title": "A Star Is Born.",
+        "subTitle": "Save your data and watch all your favourites offline.",
+        "image": "/images/films/romance/a-star-is-born/small.jpg"
+      },
+      {
+        "id": 9,
+        "title": "The Silence Of The Lambs.",
+        "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+        "image": "/images/films/thriller/the-silence-of-the-lambs/small.jpg"
+      },
+      {
+        "id": 10,
+        "title": "The Notebook.",
+        "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+        "image": "/images/films/romance/the-notebook/small.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Fight Club.",
+        "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+        "image": "/images/films/drama/fight-club/small.jpg"
+      },
+      {
+        "id": 12,
+        "title": "South Park.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/series/comedies/south-park/small.jpg"
+      },
+      {
+        "id": 13,
+        "title": "Despicable Me.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/films/children/despicable-me/small.jpg"
+      },
+      {
+        "id": 14,
+        "title": "Long Shot.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/series/crime/long-shot/small.jpg"
+      },
+      {
+        "id": 15,
+        "title": "The Confession Killer.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/series/crime/the-confession-killer/small.jpg"
+      },
+      {
+        "id": 16,
+        "title": "The Innocent Man.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/series/crime/the-innocent-man/small.jpg"
+      },
+      {
+        "id": 17,
+        "title": "The Staircase.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/series/crime/the-staircase/small.jpg"
+      },
+      {
+        "id": 18,
+        "title": "Amanda Knox.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/series/documentaries/amanda-knox/small.jpg"
+      },
+      {
+        "id": 19,
+        "title": "Man On Wire.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/series/documentaries/man-on-wire/small.jpg"
+      },
+      {
+        "id": 20,
+        "title": "Peppa Pig.",
+        "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+        "image": "/images/series/children/peppa-pig/small.jpg"
       }
   ]
   

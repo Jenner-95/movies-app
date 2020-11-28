@@ -7,21 +7,19 @@
   display: flex;
   overflow-y: hidden;
   overflow-x: scroll;
-  padding: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
 }
 
 .row__posters::-webkit-scrollbar {
   display: none;
 }
 
-.row__poster {
-  object-fit: contain;
-  width: 100%;
-  /* max-height: 100px; */
-  margin-right: 30px;
-  transition: transform 450ms;
+.title {
+  padding-top: 15px;
+  padding-bottom: 10px;
 }
 
-.row__poster {
-  transform: scale(1.08);
+.react-multi-carousel-track {
+  padding: 3px !important;
 }

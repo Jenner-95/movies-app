@@ -3,5 +3,31 @@
 }
 
 .App {
-  background-color: #111;
+  background-color: #000000;
+}
+
+.row__poster {
+  object-fit: contain;
+  /* width: 100px !important; */
+  max-height: 100px;
+  margin-right: 10px;
+  transition: transform 450ms;
+}
+.row__poster:hover {
+  border: 2px solid #ffffff;
+  transform: scale(1.05);
+  -ms-transform: scale(1.05) !important;
+  -moz-transform: scale(1.05) !important;
+  -webkit-transform: scale(1.05) !important;
+  -o-transform: scale(1.05) !important;
+  -webkit-transition: all 500ms ease-in-out !important;
+  -moz-transition: all 500ms ease-in-out !important;
+  -ms-transition: all 500ms ease-in-out !important;
+  -o-transition: all 500ms ease-in-out !important;
+}
+
+.react-multi-carousel-item {
+  flex: 1 1 auto;
+  position: relative;
+  width: 100% !important;
 }

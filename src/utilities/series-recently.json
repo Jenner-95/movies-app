@@ -1,0 +1,132 @@
+[
+    {
+      "id": 1,
+      "title": "Paw Patrol.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/children/paw-patrol/small.jpg"
+    },
+    {
+      "id": 2,
+      "title": "The Social Network.",
+      "subTitle": "Save your data and watch all your favourites offline.",
+      "image": "/images/films/drama/the-social-network/small.jpg"
+    },
+    {
+      "id": 3,
+      "title": "La La Land.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/films/romance/la-la-land/small.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Gone Girl.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/films/suspense/gone-girl/small.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Prisoners.",
+      "subTitle": "Save your data and watch all your favourites offline.",
+      "image": "/images/films/suspense/prisoners/small.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Seven.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/films/suspense/seven/small.jpg",
+      "alt": "Money Heist on Netflix",
+      "direction": "row"
+    },
+    {
+      "id": 7,
+      "title": "Shutter Island.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/films/suspense/shutter-island/small.jpg",
+      "alt": "Money Heist on Netflix",
+      "direction": "row"
+    },
+    {
+      "id": 8,
+      "title": "Nightcrawler.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/films/thriller/nightcrawler/small.jpg",
+      "alt": "Money Heist on Netflix",
+      "direction": "row"
+    },
+    {
+      "id": 9,
+      "title": "A Quiet Place.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/films/thriller/a-quiet-place/small.jpg",
+      "alt": "Money Heist on Netflix",
+      "direction": "row"
+    },
+    {
+      "id": 10,
+      "title": "The Revenant.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/films/drama/the-revenant/small.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Kings Speech.",
+      "subTitle": "Stream unlimited films and TV programmes on your phone, tablet, laptop and TV without paying more.",
+      "image": "/images/films/drama/kings-speech/small.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Spongebob.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/children/spongebob/small.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Frozen.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/films/children/frozen/small.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Office.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/comedies/the-office/small.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Family Guy.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/comedies/family-guy/small.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Arrested Development.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/comedies/arrested-development/small.jpg"
+    },
+    {
+      "id": 17,
+      "title": "Midnight In Paris.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/feel-good/midnight-in-paris/small.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Forrest Gump.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/feel-good/forrest-gump/small.jpg"
+    },
+    {
+      "id": 19,
+      "title": "The Confession Killer.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/crime/the-confession-killer/small.jpg"
+    },
+    {
+      "id": 20,
+      "title": "The Innocent Man.",
+      "subTitle": "Watch on smart TVs, PlayStation, Xbox, Chromecast, Apple TV, Blu-ray players and more.",
+      "image": "/images/series/crime/the-innocent-man/small.jpg"
+    }
+
+  ]
+  
